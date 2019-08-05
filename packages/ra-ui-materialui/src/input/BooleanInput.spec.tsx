@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, cleanup, fireEvent, wait } from 'react-testing-library';
+import { render, cleanup, fireEvent } from 'react-testing-library';
 import { Form } from 'react-final-form';
 
 import BooleanInput from './BooleanInput';
